@@ -4,7 +4,6 @@
 ## Results
 ### The tools used for this project include Mapbox, D3.js, HTML and CSS, Leaflet, and GeoJSON.
 ### In order to add different layers to the map, I have uploaded different tiles that can be accessed using my API Key.
-![layers_mapbox.png](images/layers_mapbox.png)
 ### These are the results of the map using street view.
 ![streets_mapbox.png](images/streets_mapbox.png)
 ### These are the results of the map using dark view.
